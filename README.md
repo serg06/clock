@@ -1,2 +1,2 @@
 # clock
-Python clock as per request. Assets are not mine.
+Python3 clock as per request. Assets are not mine.
